@@ -1,0 +1,26 @@
+2024-09-20 08:37:16.402 +03:00 [INF] User profile is available. Using 'C:\Users\Orange\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-20 08:37:16.663 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger - null null
+2024-09-20 08:37:16.710 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-20 08:37:16.710 +03:00 [INF] Hosting environment: Development
+2024-09-20 08:37:16.710 +03:00 [INF] Content root path: C:\Users\Orange\Downloads\Smart_Supplies-main\Smart_Supplies-main\project7
+2024-09-20 08:37:17.385 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger/index.html - null null
+2024-09-20 08:37:17.425 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger - 301 null null 770.2206ms
+2024-09-20 08:37:17.480 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger/index.html - 200 null text/html;charset=utf-8 95.3556ms
+2024-09-20 08:37:17.484 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger/swagger-ui-bundle.js - null null
+2024-09-20 08:37:17.484 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger/swagger-ui.css - null null
+2024-09-20 08:37:17.487 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-20 08:37:17.487 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger/swagger-ui-standalone-preset.js - null null
+2024-09-20 08:37:17.491 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 2.9092ms
+2024-09-20 08:37:17.497 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-09-20 08:37:17.526 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-09-20 08:37:17.526 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-09-20 08:37:17.539 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 51.8288ms
+2024-09-20 08:37:17.539 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger/swagger-ui.css - 200 143943 text/css 55.2498ms
+2024-09-20 08:37:17.539 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-09-20 08:37:17.562 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 78.8465ms
+2024-09-20 08:37:17.573 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.704ms
+2024-09-20 08:37:17.751 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger/v1/swagger.json - null null
+2024-09-20 08:37:17.775 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44381/swagger/favicon-32x32.png - null null
+2024-09-20 08:37:17.777 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-09-20 08:37:17.777 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger/favicon-32x32.png - 200 628 image/png 2.5099ms
+2024-09-20 08:37:17.931 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44381/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 179.7171ms
